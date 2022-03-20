@@ -1,2 +1,2 @@
 # LPC1768
-Embedded C  code for LED in LPC1768 
+Embedded C  code for different interfaces in LPC1768 
